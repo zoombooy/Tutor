@@ -1,0 +1,15 @@
+# Tutor 技能依赖
+# 使用 uv 管理依赖: uv pip install -r requirements.txt
+
+# 核心依赖
+manim>=0.18.0
+numpy>=1.24.0
+
+# TTS 依赖
+edge-tts>=6.1.0
+
+# 音频处理
+mutagen>=1.47.0
+
+# 工具库
+pillow>=10.0.0

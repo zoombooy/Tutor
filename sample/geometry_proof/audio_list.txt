@@ -1,0 +1,7 @@
+
+file '../audio/audio_001_开场.mp3'
+file '../audio/audio_002_展示完整图形.mp3'
+file '../audio/audio_003_切线长定理.mp3'
+file '../audio/audio_004_双曲线性质推导.mp3'
+file '../audio/audio_005_蒙日定理应用.mp3'
+file '../audio/audio_006_总结.mp3'
